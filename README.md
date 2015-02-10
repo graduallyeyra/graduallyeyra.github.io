@@ -17,4 +17,4 @@
 
     * short biography page: this page includes a paragraph introducing me. 
    
-4. Hours spent: about 5 hours 
+4. Hours spent: about 7 hours 
