@@ -16,6 +16,15 @@ body {
 	margin-bottom: 3%;
 }
 
+.tag{
+	font-style: italic;
+	font-size: 15px;
+	text-align: center;
+	color: #1176d4;
+	background-color: #32bef5;
+	border-width: 1pt;
+}
+
 #content{
 	margin-top: 5%;
 	margin-left: 25%;
@@ -44,12 +53,4 @@ li.bold {
 	font-style: italic;
 	font-size: 20px;
 	color:#1176d4;
-}
-
-.tag{
-	font-style: italic;
-	font-size: 15px;
-	text-align: center;
-	color:#1176d4;
-	background-color: #32bef5;
 }
